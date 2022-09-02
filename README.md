@@ -9,7 +9,9 @@ A mobile (android) application game which is basically a clone of Flappy Bird. T
 
 ## Build & Run
 * Use Unity to Modify, Build and Run
-* APK is also available, located inside the folder (FlappyBoi.apk)
+
+## Release
+* Version 0.0.1
 
 ## Sample Gameplay
 https://user-images.githubusercontent.com/108247941/188139441-ee5c56c3-cecd-4f3c-ab1a-d417b51da0c8.mp4
